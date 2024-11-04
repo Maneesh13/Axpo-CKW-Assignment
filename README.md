@@ -1,1 +1,1 @@
-# Axpo-CKW-Assignment
+Assignment
